@@ -1,2 +1,2 @@
-__version__ = "2023.02.20"
+__version__ = "1.0.69"
 ultroid_version = "Akeno-Beta"
